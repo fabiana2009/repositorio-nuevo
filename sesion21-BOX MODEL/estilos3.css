@@ -1,0 +1,22 @@
+.zorro{
+    background-color: blanchedalmond;
+    border: 3px brown solid;
+    margin-right: 50%;
+}
+img{
+    width: 300px;
+    margin-left: 15px;
+    display: block;
+    
+}
+h1{
+    margin-left: 15px;
+}
+p{
+    background-color: yellow;
+    border: red 3px dashed;
+    margin-left: 15px;
+    display: block;
+    margin-right: 60px;
+
+}
